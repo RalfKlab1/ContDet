@@ -1,0 +1,61 @@
+KFZID,BremseVo,BremseHi,Motorart,Motorbauart,Aufladung,Zylinder,Ventile,Hubraum,LeistungPS,LeistungMax,Drehmoment,Antriebsart,Getriebe,Lang,Breit,Hoch,Gesamtgewicht,Grundpreis,TestID
+228449,Scheibe,Scheibe,Otto,Reihe,Turbo,4.0,4.0,1596 ccm,150,5700 U/min,240 Nm,Front,Schaltgetriebe,4520 mm,1828 mm,1684 mm,2200 kg,26850,5003
+238161,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1968 ccm,177,4200 U/min,380 Nm,Front,Automat. Schaltgetriebe (Doppelkupplung),4854 mm,1904 mm,1720 mm,2380 kg,38005,5004
+230349,Scheibe,Scheibe,Otto,Boxer,,6.0,4.0,3436 ccm,350,7400 U/min,390 Nm,Heck,Automat. Schaltgetriebe (Doppelkupplung),4491 mm,1808 mm,1299 mm,1870 kg,106661,5005
+236314,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1968 ccm,150,3500 U/min,320 Nm,Front,Schaltgetriebe,4562 mm,1799 mm,1515 mm,1970 kg,29300,5011
+229622,Scheibe,Scheibe,Otto,Reihe,Turbo,4.0,4.0,1364 ccm,120,4200 U/min,200 Nm,Front,Schaltgetriebe,4658 mm,1884 mm,1685 mm,2295 kg,25855,5012
+237995,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1995 ccm,150,4000 U/min,383 Nm,Front,Schaltgetriebe,4690 mm,1880 mm,1685 mm,2510 kg,37950,5013
+237104,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1598 ccm,110,3200 U/min,250 Nm,Front,Schaltgetriebe,4255 mm,1799 mm,1491 mm,1740 kg,22600,5019
+235870,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1598 ccm,130,4000 U/min,320 Nm,Front,Schaltgetriebe,4573 mm,1845 mm,1675 mm,2249 kg,28900,5020
+235291,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1248 ccm,75,4000 U/min,190 Nm,Allrad,Schaltgetriebe,3686 mm,1672 mm,1605 mm,1595 kg,17990,5021
+237734,Scheibe,Scheibe,Elektro,Asynchronm,,,,,422,,600 Nm,Heck,Automatikgetriebe,4970 mm,1964 mm,1445 mm,2670 kg,87600,5022
+237394,Scheibe,Scheibe,Voll-Hybrid,Voll-Hybri,,4.0,4.0,2494 ccm,223,6000 U/min,n.b.,Heck,CVT-Getriebe,4665 mm,1810 mm,1430 mm,2130 kg,46800,5026
+238340,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1598 ccm,105,3000 U/min,250 Nm,Front,Schaltgetriebe,4456 mm,1796 mm,1416 mm,1825 kg,28200,5027
+236848,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1560 ccm,116,3600 U/min,270 Nm,Front,Schaltgetriebe,4428 mm,1826 mm,1610 mm,1940 kg,27340,5028
+238080,Scheibe,Scheibe,Diesel,Reihe,Bi-Turbo,4.0,4.0,2143 ccm,170,3000 U/min,400 Nm,Heck,Automatikgetriebe,4879 mm,1854 mm,1474 mm,2360 kg,48963,5029
+237759,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1995 ccm,184,4000 U/min,380 Nm,Heck,Automatikgetriebe,4638 mm,1825 mm,1362 mm,1985 kg,41650,5030
+237891,Scheibe,Scheibe,Voll-Hybrid,Voll-Hybri,,4.0,4.0,1798 ccm,136,5200 U/min,n.b.,Front,CVT-Getriebe,4560 mm,1760 mm,1475 mm,1815 kg,27990,5031
+230321,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1968 ccm,140,4200 U/min,320 Nm,Front,Automat. Schaltgetriebe (Doppelkupplung),4802 mm,1855 mm,1417 mm,2020 kg,38150,5001
+236829,Scheibe,Scheibe,Diesel,V-Motor,Turbo,6.0,4.0,2987 ccm,258,3600 U/min,620 Nm,Heck,Automatikgetriebe,5116 mm,1899 mm,1496 mm,2655 kg,81753,5047
+235647,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1968 ccm,150,3500 U/min,320 Nm,Front,Schaltgetriebe,4236 mm,1810 mm,1431 mm,1810 kg,25660,5023
+235445,Scheibe,Trommel,Gas,Reihe,,3.0,4.0,999 ccm,68,6200 U/min,90 Nm,Front,Schaltgetriebe,3563 mm,1641 mm,1480 mm,1370 kg,14940,5024
+233454,Scheibe,Scheibe,Otto,V-Motor,,10.0,4.0,5204 ccm,525,8000 U/min,530 Nm,Allrad,Automat. Schaltgetriebe (Doppelkupplung),4440 mm,1904 mm,1244 mm,2045 kg,170500,5025
+238534,Scheibe,Scheibe,Voll-Hybrid,Voll-Hybri,,6.0,4.0,3498 ccm,364,6800 U/min,546 Nm,Heck,Automatikgetriebe,4800 mm,1820 mm,1430 mm,2000 kg,51356,5082
+299587,Scheibe,Trommel,Elektro,Permanentm,,,,,204,,310 Nm,Heck,Automatikgetriebe,4261 mm,1809 mm,1568 mm,2260 kg,48735,6056
+314295,Scheibe,Scheibe,PlugIn-Hybrid,PlugIn-Hyb,Turbo,4.0,4.0,1395 ccm,245,5000 U/min,400 Nm,Front,Automat. Schaltgetriebe (Doppelkupplung),4287 mm,1789 mm,1484 mm,2040 kg,42745,6064
+239665,Scheibe,Scheibe,Diesel,Reihe,Bi-Turbo,4.0,4.0,2143 ccm,170,3000 U/min,400 Nm,Heck,Schaltgetriebe,4686 mm,1810 mm,1442 mm,2115 kg,41085,5158
+240133,Scheibe,Scheibe,Voll-Hybrid,Voll-Hybri,Bi-Turbo,4.0,4.0,2143 ccm,231,4200 U/min,750 Nm,Heck,Automatikgetriebe,5116 mm,1899 mm,1496 mm,2715 kg,81753,5165
+241663,Scheibe,Scheibe,Diesel,Reihe,Bi-Turbo,4.0,4.0,2143 ccm,170,3000 U/min,400 Nm,Heck,Schaltgetriebe,4702 mm,1810 mm,1457 mm,2170 kg,42602,5199
+239655,Scheibe,Scheibe,Otto,Reihe,Turbo,4.0,4.0,1595 ccm,156,5300 U/min,250 Nm,Heck,Automatikgetriebe,4686 mm,1810 mm,1442 mm,1990 kg,38526,5205
+241916,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1968 ccm,150,3500 U/min,340 Nm,Front,Schaltgetriebe,4767 mm,1832 mm,1516 mm,2060 kg,38350,5228
+242952,Scheibe,Scheibe,PlugIn-Hybrid,PlugIn-Hyb,Turbo,4.0,4.0,1395 ccm,204,5000 U/min,350 Nm,Front,Automat. Schaltgetriebe (Doppelkupplung),4270 mm,1799 mm,1472 mm,2020 kg,36900,5233
+242742,Scheibe,Scheibe,PlugIn-Hybrid,PlugIn-Hyb,Bi-Turbo,6.0,4.0,2996 ccm,442,5250 U/min,650 Nm,Heck,Automatikgetriebe,5246 mm,1899 mm,1496 mm,2825 kg,109778,5248
+243646,Scheibe,Scheibe,Elektro,Permanentm,,,,,180,,340 Nm,Front,Automatikgetriebe,4393 mm,1786 mm,1557 mm,2170 kg,41460,5271
+241913,Scheibe,Scheibe,Otto,Reihe,Turbo,4.0,4.0,1395 ccm,150,5000 U/min,250 Nm,Front,Schaltgetriebe,4767 mm,1832 mm,1516 mm,1940 kg,36175,5301
+245066,Scheibe,Scheibe,Otto,Reihe,Turbo,4.0,4.0,1984 ccm,220,4500 U/min,350 Nm,Front,Automat. Schaltgetriebe (Doppelkupplung),4767 mm,1832 mm,1476 mm,2080 kg,41325,5321
+248580,Scheibe,Scheibe,Diesel,Reihe,Bi-Turbo,4.0,4.0,2143 ccm,204,3800 U/min,500 Nm,Allrad,Automatikgetriebe,4656 mm,1890 mm,1639 mm,2500 kg,47695,5344
+245919,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1968 ccm,150,3500 U/min,340 Nm,Front,Schaltgetriebe,4527 mm,1829 mm,1659 mm,2180 kg,35525,5366
+246019,Scheibe,Scheibe,Diesel,Reihe,Bi-Turbo,4.0,4.0,2143 ccm,204,3800 U/min,500 Nm,Heck,Automatikgetriebe,4686 mm,1810 mm,1442 mm,2160 kg,46529,5383
+250311,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1968 ccm,150,3250 U/min,320 Nm,Front,Schaltgetriebe,4725 mm,1842 mm,1434 mm,2100 kg,40750,5398
+248300,Scheibe,Scheibe,Diesel,Reihe,Turbo,6.0,4.0,2993 ccm,265,4000 U/min,620 Nm,Heck,Automatikgetriebe,5098 mm,1902 mm,1478 mm,2450 kg,87200,5432
+246058,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1598 ccm,136,3800 U/min,300 Nm,Heck,Schaltgetriebe,4702 mm,1810 mm,1457 mm,2120 kg,41032,5440
+250122,Scheibe,Scheibe,Otto,Reihe,Turbo,4.0,4.0,1395 ccm,150,5000 U/min,250 Nm,Front,Schaltgetriebe,4527 mm,1829 mm,1659 mm,2050 kg,29300,5450
+246940,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1598 ccm,120,3600 U/min,250 Nm,Front,Schaltgetriebe,4767 mm,1832 mm,1501 mm,2070 kg,31600,5465
+251730,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1950 ccm,194,3800 U/min,400 Nm,Heck,Automatikgetriebe,4923 mm,1852 mm,1468 mm,2320 kg,47338,5476
+298074,Scheibe,Scheibe,Diesel,Reihe,Bi-Turbo,4.0,4.0,1950 ccm,239,4200 U/min,500 Nm,Heck,Automatikgetriebe,5140 mm,1928 mm,1901 mm,3100 kg,67875,5956
+310611,Scheibe,Scheibe,PlugIn-Hybrid,PlugIn-Hyb,Turbo,4.0,4.0,1332 ccm,218,5500 U/min,450 Nm,Front,Automat. Schaltgetriebe (Doppelkupplung),4419 mm,1796 mm,1562 mm,2225 kg,42905,5984
+305212,Scheibe,Scheibe,PlugIn-Hybrid,PlugIn-Hyb,Turbo,3.0,4.0,1477 ccm,261,5800 U/min,425 Nm,Front,Automat. Schaltgetriebe (Doppelkupplung),4425 mm,1863 mm,1652 mm,2290 kg,52160,5992
+305218,Scheibe,Scheibe,Elektro,Permanentm,,,,,408,,660 Nm,Allrad,Automatikgetriebe,4606 mm,1859 mm,1482 mm,2600 kg,51500,6082
+318521,Scheibe,Trommel,Elektro,Permanentm,,,,,204,,310 Nm,Heck,Automatikgetriebe,4584 mm,1852 mm,1640 mm,2660 kg,58820,6104
+288039,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1461 ccm,116,4000 U/min,260 Nm,Front,Automat. Schaltgetriebe (Doppelkupplung),4419 mm,1796 mm,1440 mm,1935 kg,32999,5791
+241371,Scheibe,Trommel,Otto,Reihe,,3.0,4.0,1199 ccm,82,5750 U/min,118 Nm,Front,Schaltgetriebe,3475 mm,1615 mm,1460 mm,1240 kg,14400,5188
+241321,Scheibe,Scheibe,Gas,Reihe,Turbo,4.0,4.0,1395 ccm,110,4800 U/min,200 Nm,Front,Schaltgetriebe,4659 mm,1814 mm,1461 mm,1879 kg,26190,5265
+283862,Scheibe,Scheibe,Diesel,Reihe,Bi-Turbo,4.0,4.0,1969 ccm,190,4250 U/min,400 Nm,Allrad,Automatikgetriebe,4688 mm,1902 mm,1658 mm,2450 kg,53100,5805
+230321,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,4.0,1968 ccm,140,4200 U/min,320 Nm,Front,Automat. Schaltgetriebe (Doppelkupplung),4802 mm,1855 mm,1417 mm,2020 kg,38150,5368
+261790,Scheibe,Scheibe,PlugIn-Hybrid,PlugIn-Hyb,Bi-Turbo,6.0,4.0,2894 ccm,462,5250 U/min,700 Nm,Allrad,Automat. Schaltgetriebe (Doppelkupplung),5049 mm,1937 mm,1423 mm,2710 kg,109219,5659
+298419,Scheibe,Scheibe,Voll-Hybrid,Voll-Hybri,,4.0,4.0,2487 ccm,218,6000 U/min,n.b.,Front,CVT-Getriebe,4885 mm,1840 mm,1445 mm,2100 kg,42881,5890
+269298,Scheibe,Scheibe,Diesel,Reihe,Turbo,4.0,2.0,1499 ccm,120,3600 U/min,270 Nm,Front,Schaltgetriebe,4040 mm,1735 mm,1476 mm,1685 kg,21600,5709
+242486,Scheibe,Trommel,Otto,Reihe,,3.0,4.0,999 ccm,71,6000 U/min,91 Nm,Heck,Schaltgetriebe,3495 mm,1665 mm,1554 mm,1400 kg,13915,5252
+250422,Scheibe,Scheibe,Otto,Reihe,Turbo,3.0,4.0,998 ccm,120,6000 U/min,171 Nm,Front,Schaltgetriebe,4310 mm,1780 mm,1470 mm,1820 kg,23990,5375
+287892,Scheibe,Scheibe,Elektro,Stromerreg,,,,,150,,320 Nm,Front,Automatikgetriebe,4490 mm,1788 mm,1530 mm,1995 kg,35600,5729
+249166,Scheibe,Scheibe,Otto,Boxer,Turbo,4.0,4.0,1600 ccm,170,4800 U/min,250 Nm,Allrad,CVT-Getriebe,4690 mm,1780 mm,1490 mm,2020 kg,37200,5434
